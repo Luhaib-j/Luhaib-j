@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luhaib-j
 - 👀 I’m interested in web development
 - 🌱 I a junior full-stack developer
-- 💞️ I am mainly using vue.js, firebase services, express.js and others
+- 💞️ I am mainly using vue.js, firebase services, express.js as well as html, css, js, node.js ...etc
 - 📫 How to reach me via my email: Luhaibjabbo@gmail.com
 
 <!---
